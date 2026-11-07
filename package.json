@@ -1,0 +1,26 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "Full-Stack Student Management System (React, Express, Node.js, MongoDB) with Authentication & RBAC",
+  "scripts": {
+    "seed": "npm run --prefix backend seed",
+    "test": "npm run --prefix backend test",
+    "dev:backend": "npm run --prefix backend dev",
+    "start:backend": "npm run --prefix backend start",
+    "dev:frontend": "npm run --prefix frontend dev",
+    "build:frontend": "npm run --prefix frontend build"
+  },
+  "keywords": [
+    "mern",
+    "student-management",
+    "react",
+    "express",
+    "nodejs",
+    "mongodb",
+    "rbac",
+    "jwt",
+    "bcrypt"
+  ],
+  "author": "",
+  "license": "ISC"
+}
